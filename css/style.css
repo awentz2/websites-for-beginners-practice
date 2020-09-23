@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(49, 201, 150);
+    padding:0%;
+    margin:0%;
+    }
+    header{
+        background-color: bisque;
+        width:100%;
+        height:50px;
+        text-align:center;
+    }
+    nav{
+        background-color: rgb(165, 255, 75);
+        width:100%;
+        height:100px;
+        text-align:center;
+        padding: 0%;
+        margin: 0%;
+    }
+    aside{
+        background-color: rgb(172, 127, 214);
+        width:50%;
+        height:40%;
+        text-align:center;
+    }
+    section{
+        background-color: rgb(211, 76, 211);
+        width:50%;
+        height:40%;
+        text-align:center;
+    }
+    article{
+        background-color: rgb(182, 6, 64);
+        width:50%;
+        height:40%;
+        text-align:center;
+    }
+    footer{
+        background-color: rgb(27, 223, 158);
+        width:100%;
+        height:50%;
+        text-align:center;
+    }    
+.nav-link:hover {
+    background: turquoise;
+    transition: background .5s;
+  }
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+  }
+  .nav-link {
+    float:right;
+    list-style: none;
+    height: 52px; 
+    line-height: 52px; 
+    padding: 0 40px; 
+  }
+  .nav-link {
+    height: 52px; 
+    text-align:center;
+    float:right;
+  }
+  header{
+    width: 100%;
+    border:8px solid black;
+    padding:20px;
+    margin:20px;
+    text-align: center;
+  }
+  .container{
+    width: 100%;
+   height: 50psx;
+ margin-top:30px;
+}
